@@ -1,0 +1,20 @@
+/* src/App.css */
+
+.hierarchical-table {
+    width: 100%;
+    border-collapse: collapse;
+  }
+  
+  .hierarchical-table, .hierarchical-table th, .hierarchical-table td {
+    border: 1px solid black;
+  }
+  
+  .hierarchical-table th, .hierarchical-table td {
+    padding: 8px;
+    text-align: left;
+  }
+  
+  .hierarchical-table th {
+    background-color: #f2f2f2;
+  }
+  
